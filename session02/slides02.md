@@ -121,8 +121,8 @@ export OPENAI_API_KEY=sk-********
 
 ```bash
 source .venv/bin/activate
-cd sample-app/llm-call
-python one_shot.py
+
+python cd sample-app/llm-callone_shot.py
 ```
 
 「FastAPIを2文で説明して」と入力します。
